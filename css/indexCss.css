@@ -1,0 +1,50 @@
+#titulo{
+    font-family: fast_rider,sans-serif,arial;
+    font-size: 60px;
+    text-align:left;
+    color: black;
+    padding-top: 10px;
+    font-weight: lighter; 
+    text-align: center;
+}
+#principal{
+    height: 1000px;
+}
+#divp1{   
+    width: 50%;
+    float:left;
+}
+
+#divp1 p{
+    font-size: 18px;
+    text-align: justify;
+    color: black;
+}
+#divp2{
+    float: left;
+    width: 48%;
+    margin-top: -10px;
+    margin-left: 12px;
+}
+#divp2 img{
+    margin-top: 34px;
+    width: 100%;
+    height: 245px;
+}
+#izq{
+    float: left;
+    width: 48%;
+    margin-top: 34px;
+    margin-left: 12px;
+    height: 245px;
+    margin-bottom: 30px;
+}
+#categoria{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 48%;
+    margin-top: 34px;
+    height: 245px;
+    margin-bottom: 30px;
+}
